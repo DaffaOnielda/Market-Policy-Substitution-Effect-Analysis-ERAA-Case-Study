@@ -5,7 +5,7 @@ This project explores the microeconomic **consumer substitution effect** in resp
 
 ## Data & Scope
 *   **Timeframe:** Q1 2023 – Q2 2026 (14 Quarters)
-*   **Data Source:** Consolidated Financial Statements of PT Erajaya Swasembada Tbk (ERAA) published via the Indonesia Stock Exchange (IDX).
+*   **Data Source:** Consolidated Financial Statements of PT Erajaya Swasembada Tbk (ERAA) published via the Indonesia Stock Exchange (IDX) and StockBit.
 *   **Key Variables Extracted:** Total COGS, Gross Margin, and absolute purchase values/ratios for major suppliers (Apple, Samsung, Xiaomi).
 
 ## Methodology
