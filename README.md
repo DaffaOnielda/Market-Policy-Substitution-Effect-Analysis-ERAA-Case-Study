@@ -40,23 +40,3 @@ Examines the shift between Samsung and Apple purchasing shares relative to margi
 
 $$\text{Log Odds}_t = \beta_0 + \beta_1 \text{Sub Ratio}_t + \beta_2 \ln(\text{Assets})_t + \beta_3 \ln(\text{Equity})_t + \varepsilon_t$$
 
----
-
-## Repository Structure
-
-```text
-├── data/
-│   ├── quarterlyCOGS.csv                 # Supplier breakdown & procurement data
-│   ├── GSCPI.csv                         # NY Fed Global Supply Chain Pressure Index
-│   ├── [DATAFRAME] eraa_final_daily.RData # Processed daily returns & volatility
-│   └── Inflasi Bulanan (M-to-M)...       # Macro inflation controls
-│
-├── scripts/
-│   ├── 01_garch_market_volatility.R      # Daily GARCH(1,1) modeling & volatility plots
-│   ├── 02_ols_fundamental_market_power.R # Lerner Proxy OLS & diagnostic plots
-│   ├── 03_ols_brand_substitution.R       # Brand substitution regression & time series
-│   ├── 04_macro_supply_chain_controls.R  # Semiconductor (SOXX) & GSCPI comparisons
-│   └── 05_theoretical_variance_simulation.R # Monte Carlo demo: Homoskedastic vs GARCH
-│
-├── README.md
-└── LICENSE
