@@ -2,7 +2,7 @@
 
 [![Status: Active Development](https://img.shields.io/badge/status-active--development-red?style=flat-square)](https://github.com/)
 
-> **Note:** This project is currently in **active development**. Datasets, models, an robustness are continuously being updated as new filings are published.
+> **Note:** This project is currently in **active development**. Datasets, models, and robustness are continuously being updated as new filings are published.
 
 ---
 
