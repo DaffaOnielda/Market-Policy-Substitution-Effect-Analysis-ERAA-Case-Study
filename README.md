@@ -1,6 +1,6 @@
 # Market Policy & Substitution Effect Analysis: ERAA Case Study
 
-[![Status: Active Development](https://img.shields.io/badge/status-active--development-orange?style=flat-square)](https://github.com/)
+[![Status: Active Development](https://img.shields.io/badge/status-active--development-red?style=flat-square)](https://github.com/)
 
 > **Note:** This project is currently in **active development**. Datasets, robustness checks, and econometric scripts are continuously being updated as new financial filings are published.
 
