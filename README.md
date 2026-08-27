@@ -28,7 +28,7 @@ This project tries to answer two Qs:
 ### 1. Fundamental Pricing Power (Quarterly OLS)
 Tests whether the policy ban reduced ERAA's Lerner Proxy (Gross Margin) after controlling for asset size and debt leverage:
 
-$$\text{lerner\_proxy}_t = \beta_0 + \beta_1 \text{policy\_dummy}_t + \beta_2 \text{firm\_size}_t + \beta_3 \text{leverage}_t + \varepsilon_t$$
+$$\text{Lerner Proxy}_t = \beta_0 + \beta_1 \text{Policy Dummy}_t + \beta_2 \text{Firm Size}_t + \beta_3 \text{Leverage}_t + \varepsilon_t$$
 
 ### 2. Market Risk & Volatility Clustering (Daily GARCH 1,1)
 Tracks daily return volatility over 800+ trading days to measure how long market panic persisted post-announcement:
@@ -38,7 +38,7 @@ $$\sigma_t^2 = \omega + \alpha_1 a_{t-1}^2 + \beta_1 \sigma_{t-1}^2$$
 ### 3. Brand Substitution Effect (Quarterly OLS)
 Examines the shift between Samsung and Apple purchasing shares relative to margin log-odds:
 
-$$\text{log\_odds}_t = \beta_0 + \beta_1 \text{sub\_ratio}_t + \beta_2 \ln(\text{assets})_t + \beta_3 \ln(\text{equity})_t + \varepsilon_t$$
+$$\text{Log Odds}_t = \beta_0 + \beta_1 \text{Sub Ratio}_t + \beta_2 \ln(\text{Assets})_t + \beta_3 \ln(\text{Equity})_t + \varepsilon_t$$
 
 ---
 
