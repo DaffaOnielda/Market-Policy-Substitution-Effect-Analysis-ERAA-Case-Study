@@ -21,7 +21,7 @@ plt.show()
 
 #--------------------------------------------------------------------------------------
 #--------------------------------------------------------------------------------------
-# quick notes:
+# quick notes for myself ad others :)
 
 # yf.Ticker('...') -> grabs the ticker data from yfinance
 # plt.figure() -> creates the blank canvas/window
