@@ -15,11 +15,11 @@ This project tries to answer two Qs:
 
 ---
 
-## Key Findings
+## Current Findings
 
-- The policy shock variable was statistically insignificant ($p = 0.159$). ERAA's gross margins were barely affected by the ban—quarterly profitability was mostly driven by normal retail cycles, FX rates (USD/IDR), and promotional campaigns.
-- Because ERAA distributes multiple brands (Samsung, Xiaomi, etc.), consumer demand didn't vanish—buyers simply shifted their spending to other available flagships within the same retail ecosystem.
-- While business fundamentals remained stable, daily stock returns experienced prolonged volatility clustering ($\beta_1 = 0.9107$). Investors took almost a full year to price in the actual operational reality.
+* **Margins were unaffected ($p = 0.159$):** Normal retail cycles and FX rates drove profitability, not the ban.
+* **Brand substitution worked:** Customers shifted to other brands (Samsung, Xiaomi, etc.) within ERAA's stores.
+* **Market lag ($\beta_1 = 0.9107$):** Stock volatility lingered for nearly a year before sentiment caught up with fundamentals.
 
 ---
 
